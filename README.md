@@ -11,6 +11,6 @@ To grab the latest updates:
     
 To commit your code:
 
-    - If you have added files, type in "git add <filename>"
+    - For any edited files and new files, type in "git add <filename>"
     - Then, type "git commit -m "<your commit message>"
     - Then, type "git push origin master"
