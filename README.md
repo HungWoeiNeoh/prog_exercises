@@ -7,7 +7,7 @@ Instructions to include it in your directory:
     
 To grab the latest updates:
 
-    - Type "git checkout"
+    - Type "git pull origin master"
     
 To commit your code:
 
