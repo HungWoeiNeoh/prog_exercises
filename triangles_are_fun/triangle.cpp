@@ -83,8 +83,8 @@ int main(int argc, char *argv[])
 
     long *values = convert_input(argv + 1);
 
-    left_triangle(values[0]);
-    right_triangle(values[1]);
+    right_triangle(values[0]);
+    left_triangle(values[1]);
     down_triangle(values[2]);
 
     delete [] values;
